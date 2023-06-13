@@ -3,7 +3,7 @@ nuxt-kubernetes-deployment
 
 ## Installation
 ```shell
-yarn add @deegital/nuxt-kubernetes-deployment
+npx @deegital/nuxt-kubernetes-deployment@latest
 ```
 
 ## Usage
