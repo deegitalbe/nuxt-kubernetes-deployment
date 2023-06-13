@@ -1,6 +1,6 @@
 {
   "name": "@deegital/nuxt-kubernetes-deployment",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "nuxt-kubernetes-deployment",
   "files": [
     "dist",
