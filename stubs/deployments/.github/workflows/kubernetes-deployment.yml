@@ -33,7 +33,7 @@ jobs:
           file: Dockerfile.prod
           target: runner
           push: true
-          tags: henrotaym/{{{{key}}}}:${{ github.sha }}
+          tags: henrotaym/{{{{key}}}}-app:${{ github.sha }}
       - 
         name: Install and configure kubectl
         # VERSION=$(curl --silent https://storage.googleapis.com/kubernetes-release/release/stable.txt)
